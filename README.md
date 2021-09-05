@@ -27,6 +27,6 @@
   <h3> Softwares </h3>
   <br/>
   <ul>
-    <li>Design: <li>
+    <li> <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/> </li>
   </ul> 
 </details>
