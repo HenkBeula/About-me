@@ -26,5 +26,7 @@
   
   <h3> Softwares </h3>
   <br/>
-  - Design: 
+  <ul>
+    <li>Design: <li>
+  </ul> 
 </details>
