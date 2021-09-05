@@ -47,7 +47,7 @@
   <summary> <b> References </b> </summary>
   </br>
   <h3> Other </h3>
-  <ul>
+  <ul class="reference">
     <li> Icons: https://icons8.com/ | https://fontawesome.com/</li>
     <li> Badges: https://github.com/Ileriayo/markdown-badges</li>
   </ul>
