@@ -1,4 +1,4 @@
-## Hey! Henk Beula here.
+## Hey! Henk Beula here
 ***
 
 ### What i like
