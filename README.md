@@ -13,9 +13,9 @@
   <sumary>💡 Skills </sumary>
   
   ### Languages
-  <img alt="JAVA" src="icons/java.svg"/>
-  <img alt="JavaScript" src="icons/javascript.svg"/>
-  <img alt="HTML5" src="icons/html5.svg"/>
-  <img alt="CSS3 (Beginner)" src="icons/css3.svg"/>
-  <img alt="C++ (Beginner)" src="icons/c++.svg"/>
+  <img alt="JAVA" src="icons/java.svg"/ width="25px">
+  <img alt="JavaScript" src="icons/javascript.svg" width="25px"/>
+  <img alt="HTML5" src="icons/html5.svg" width="25px"/>
+  <img alt="CSS3 (Beginner)" src="icons/css3.svg" width="25px"/>
+  <img alt="C++ (Beginner)" src="icons/c++.svg" width="25px"/>
 </details>
