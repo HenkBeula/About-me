@@ -46,7 +46,7 @@
 <details>
   <sumary> <b> References </b> </sumary>
   </br>
-  ## Other
+  <h3> Other </h3>
   <ul>
     <li> Icons: https://icons8.com/ | https://fontawesome.com/</li>
     <li> Badges: https://github.com/Ileriayo/markdown-badges</li>
