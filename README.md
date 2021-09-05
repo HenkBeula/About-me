@@ -1,4 +1,4 @@
-## Hey! Henk Beula here
+<img src="https://img.icons8.com/ios/64/000000/external-game-arcade-flatart-icons-solid-flatarticons.png"/> | <h2> Hey! Henk Beula here </h2>
 ***
 
 <h3> What i like </h3>
