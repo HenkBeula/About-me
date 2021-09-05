@@ -44,11 +44,11 @@
 ***
 
 <details>
-  <summary> <b> References </b> </summary>
-  </br>
-  <h3 color="blue"> Other </h3>
-  <ul>
-    <li> Icons: https://icons8.com/ | https://fontawesome.com/</li>
-    <li> Badges: https://github.com/Ileriayo/markdown-badges</li>
-  </ul>
+  <summary> <b>  References </b> </summary>
+  
+## Other
+```bash
+• Icons: https://icons8.com/ | https://fontawesome.com/</li>
+• Badges: https://github.com/Ileriayo/markdown-badges</li>
+```
 </details>
