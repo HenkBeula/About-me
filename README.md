@@ -43,9 +43,9 @@
     
   <h3> Operanting Systems </h3>
   <br/>
-    <img alt="Windows" src="icons/windows.svg"/>
-    <img alt="Ubutnu" src="icons/uuntu.svg"/>
-    <img alt="Linux" src="icons/linux.svg"/>
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png"/>
+    <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 </details>
 
 ***
