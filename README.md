@@ -13,7 +13,7 @@
   <sumary>💡 Skills </sumary>
   
   ### Languages
-  <img alt="JAVA" src="icons/java.svg"/ width="25px">
+  <img alt="JAVA" src="icons/java.svg" width="25px"/>
   <img alt="JavaScript" src="icons/javascript.svg" width="25px"/>
   <img alt="HTML5" src="icons/html5.svg" width="25px"/>
   <img alt="CSS3 (Beginner)" src="icons/css3.svg" width="25px"/>
