@@ -10,7 +10,7 @@
 ***
 
 <details>
-  <sumary>💡 Skills </sumary>
+  <summary>💡 Skills </summary>
   <br/>
   <h3> Languages </h3>
   <br/>
@@ -44,7 +44,7 @@
 ***
 
 <details>
-  <sumary> <b> References </b> </sumary>
+  <summary> <b> References </b> </summary>
   </br>
   <h3> Other </h3>
   <ul>
