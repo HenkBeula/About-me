@@ -44,7 +44,7 @@
 ***
 
 <details>
-  <summary> <b>  References </b> </summary>
+  <summary> <img src="https://img.icons8.com/material-outlined/24/000000/document--v1.png"/> <b>  References </b> </summary>
   
 ## Other
 ```bash
