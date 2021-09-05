@@ -48,7 +48,7 @@
   
 ## Other
 ```bash
-• Icons: https://icons8.com/ | https://fontawesome.com/</li>
-• Badges: https://github.com/Ileriayo/markdown-badges</li>
+• Icons: https://icons8.com/ | https://fontawesome.com/
+• Badges: https://github.com/Ileriayo/markdown-badges
 ```
 </details>
