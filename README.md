@@ -60,7 +60,7 @@
 <details>
   <summary> <b> ℹ References </b> </summary>
   
-## Other
+  <h2> Other </h2>
 ```bash
 • Icons: https://icons8.com/ | https://fontawesome.com/
 • Badges: https://github.com/Ileriayo/markdown-badges
