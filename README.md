@@ -7,3 +7,15 @@
 - <img src="icons/basketball-ball.svg" width="22px" height="22px" align="center"/> | I play bastketball sometimes.
 - <img src="icons/naruto.svg" width="22px" height="22px" align="center"/> | I watch animes too.
 
+***
+
+<details>
+  <sumary>💡 Skills </sumary>
+  
+  ### Languages
+  <img alt="JAVA" src="icons/java.svg"/>
+  <img alt="JavaScript" src="icons/javascript.svg"/>
+  <img alt="HTML5" src="icons/html5.svg"/>
+  <img alt="CSS3 (Beginner)" src="icons/css3.svg"/>
+  <img alt="C++ (Beginner)" src="icons/c++.svg"/>
+</details>
