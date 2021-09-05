@@ -46,7 +46,7 @@
 <details>
   <summary> <b> References </b> </summary>
   </br>
-  <h3 style="background-color:powderblue;"> Other </h3>
+  <h3 color="blue"> Other </h3>
   <ul>
     <li> Icons: https://icons8.com/ | https://fontawesome.com/</li>
     <li> Badges: https://github.com/Ileriayo/markdown-badges</li>
