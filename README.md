@@ -1,19 +1,5 @@
 # Hey! Henk Beula here
 
-Current Time:
-
-<input type="text" id="currentTime">
-
-<script>
-
-var today = new Date();
-
-var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
-
-  document.getElementById("currentTime").value = time;
-
-</script>
-
 ***
 
 <h3> What i like </h3>
