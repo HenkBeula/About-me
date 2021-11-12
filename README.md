@@ -8,7 +8,7 @@
   <li> <img src="icons/music.svg" width="22px" height="22px" align="center"/> | I like to listen to music ( Some of me favorite artists are <a href="https://en.wikipedia.org/wiki/J._Cole"> J. Cole </a>, <a href="https://en.wikipedia.org/wiki/Drake_(musician)"> Drake </a> and some others..) </li>
   <li> <img src="icons/basketball-ball.svg" width="22px" height="22px" align="center"/> | I play bastketball sometimes </li>
   <li> <img src="icons/naruto.svg" width="22px" height="22px" align="center"/> | I watch animes too </li>
-  <li> <img src="https://img.icons8.com/ios-filled/50/000000/learn-information.png" width="22px" height="22px"/> | And also i'm fast learner. </li>
+  <li> <img src="https://img.icons8.com/ios-filled/50/000000/learn-information.png" width="22px" height="22px"/> | And also i'm a fast learner. </li>
 </ul>
 
 ***
