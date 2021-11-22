@@ -1,5 +1,0 @@
-githubUsers.sort(_.followers)
-           .filter(_.location == 'Mozambique') 
-           .take(1000)
-           .sort(_.contributions)
-           .take(256)
