@@ -11,6 +11,8 @@
   <li> <img src="https://img.icons8.com/ios-filled/50/000000/learn-information.png" width="22px" height="22px"/> | And also i'm a fast learner. </li>
 </ul>
 
+![](https://github-readme-stats.vercel.app/api?username=HenkBeula&show_icons=true&hide_border=true&count_private=true&theme=dark)
+
 ***
 
 <details>
