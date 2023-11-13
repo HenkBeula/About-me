@@ -28,8 +28,8 @@
   <br/>
   
   <h3> Database</h3>
-  <img alt="SQL (Basic)" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-  <img alt="SQL (Basic)" src="https://img.shields.io/badge/Oracle%20SQL-FF4E00"/><br/>
+  <img alt="SQL (Basic)" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="SQL (Basic)" src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/><br/>
   
   <br/>
   
