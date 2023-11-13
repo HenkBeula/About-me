@@ -61,13 +61,15 @@
 
 </details>
 
+***
+
 <details>
     <summary> <b> Gaming </b> </summary>
-    <img alt="HenkCGamer" src="https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)"/>
-    <img alt="HenkCGamer" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
-    <img alt="HenkCGamer" src="https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)"/>
-    <img alt="HenkCGamer" src="https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)"/>
-    <img alt="HenkCGamer" src="https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)"/>
+    <img alt="Epic Games" src="https://img.shields.io/badge/HenkCGamer-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)"/>
+    <img alt="Steam" src="https://img.shields.io/badge/HenkCGamer-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/>
+    <img alt="EA" src="https://img.shields.io/badge/HenkCGamer-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)"/>
+    <img alt="PSN" src="https://img.shields.io/badge/HenkCGamer-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)"/>
+    <img alt="XBOX" src="https://img.shields.io/badge/HenkCGamer-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)"/>
 </details>
 
 ***
