@@ -9,7 +9,7 @@
   <li> <img src="icons/music.svg" width="22px" height="22px" align="center"/> | Music is my therapy. </li>
   <li> <img src="icons/basketball-ball.svg" width="22px" height="22px" align="center"/> | I play basketball and football sometimes, and I also swim. </li>
   <li> <img src="icons/naruto.svg" width="22px" height="22px" align="center"/> | I like watching animes and TV Shows. </li>
-  <li> <img src="https://img.icons8.com/ios-filled/50/000000/learn-information.png" width="22px" height="22px"/> | And also i'm a fast learner. </li>
+  <li> <img src="https://img.icons8.com/ios-filled/50/000000/learn-information.png" width="22px" height="22px"/> | And I'm always willing to learn. </li>
 </ul>
 
 ![](https://github-readme-stats.vercel.app/api?username=HenkBeula&show_icons=true&hide_border=true&count_private=true&theme=dark)
